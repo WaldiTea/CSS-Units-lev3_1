@@ -1,0 +1,31 @@
+body {
+  background: url(../img/ales-krivec-Uszp5Gkg0AI-unsplash.jpg) no-repeat;
+  background-size: cover;
+  margin: 0px;
+}
+
+section {
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  text-align: center;
+  margin: 2.5rem;
+}
+
+h1 {
+  font-size: 3em;
+  padding: 0.7em;
+}
+
+article {
+  font-family: "Helvetica";
+  background: rgba(121, 125, 117, 0.5);
+  text-align: center;
+  font-size: 1rem;
+  padding: 2rem;
+  margin: 2.5rem;
+}
+
+h2 {
+  font-size: 2em;
+  line-height: 3em;
+}
